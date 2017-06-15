@@ -1,0 +1,1 @@
+Identify whether the entered expression is of the form : a^mb^n (m,n >=0)
